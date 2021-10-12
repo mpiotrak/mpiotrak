@@ -40,7 +40,7 @@
 
 
 ---
-[![mpiotrak's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpiotrak&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mpiotrak&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [ansible]: https://www.ansible.com/
 [atlassian]: https://www.atlassian.com/
