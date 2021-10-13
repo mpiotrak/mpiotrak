@@ -1,4 +1,4 @@
-### Hi there, I'm Marcin and welcome to my GitHub 👋
+### Hi there, I'm Marcin, DevSecOps specialist with the fin-tech background 👋
 
 - 🌱 I’m currently learning: golang and whatever is trending on [roadmap]!
 - 💬 My motto: "Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it" ;)
