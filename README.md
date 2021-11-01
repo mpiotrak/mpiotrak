@@ -5,13 +5,18 @@
 - 🥅 2021 Goals: read at least half of the saved bookmarks!
 - ⚡ Fun fact: I actually like writing documentation :)
 
+### Check out my (awesome-wannabe) repositories!
+
+Here's what I'm working on!
+- [DevSecOps-fu](https://github.com/mpiotrak/DevSecOps-fu "DevSecOps-fu") - collection of notes on every major technology/tool I've been working on since wanting to become DevSecOps Engineer!
+- :soon: [.dotfiles](https://github.com/mpiotrak/.dotfiles ".dotfiles") - configuration files for daily tools like zsh, tmux, GIT, etc., but also list of brew formulaes/casks and Atom packages I use (includes terminal color scheme and large portion of .zshrc and .vimrc forked from the great guy who introduced me into DevOps world :heart: - [ebenezar-mccoy/productivity](https://github.com/ebenezar-mccoy/productivity "ebenezar-mccoy/productivity"))
+- [terraform-aws](https://github.com/mpiotrak/terraform-aws "terraform-aws") - complete setup for spinning up full-fledged AWS environment
 
 ### Connect with me:
 
 [<img align="left" alt="marcin-piotrak | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 [<img align="left" alt="mpiotrak | stackoveflow" width="22px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />][stackoverflow]
 <br>
-
 
 ### Languages and (main) Tools:
 
@@ -36,8 +41,7 @@
 [<img align="left" alt="PostgreSQL" width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />][postgresql]
 [<img align="left" alt="Kafka" width="26px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" />][kafka]
 [<img align="left" alt="Atlassian" width="26px" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" />][atlassian]
-<br>
-<br>
+<br><br>
 
 ---
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mpiotrak&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
