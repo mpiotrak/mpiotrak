@@ -40,6 +40,7 @@
 [<img align="left" alt="PostgreSQL" width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">][postgresql]
 [<img align="left" alt="Kafka" width="26px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg">][kafka]
 [<img align="left" alt="Atlassian" width="26px" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg">][atlassian]
+
 <br>
 <br>
 
