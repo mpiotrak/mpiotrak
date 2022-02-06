@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning: golang and whatever is trending on [roadmap]!
 - 💬 My motto: "Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it" ;)
-- 🥅 2021 Goals: read at least half of the saved bookmarks!
+- 🥅 2022 Goals: read at least half of the saved bookmarks!
 - ⚡ Fun fact: I actually like writing documentation :)
 
 ### Check out my (awesome-wannabe) repositories!
