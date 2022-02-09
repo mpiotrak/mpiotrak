@@ -7,7 +7,7 @@
 
 ### Check out my (awesome-wannabe) repositories!
 
-- [DevSecOps-fu](https://github.com/mpiotrak/DevSecOps-fu "DevSecOps-fu") - collection of notes on every major technology/tool I've been working on since wanting to become DevSecOps Engineer!
+- :file_folder: [DevSecOps-fu](https://github.com/mpiotrak/DevSecOps-fu "DevSecOps-fu") - `PRIVATE` collection of notes on every major technology/tool I've been working on since wanting to become DevSecOps Engineer!
 - :soon: [.dotfiles](https://github.com/mpiotrak/.dotfiles ".dotfiles") - configuration files for daily tools like zsh, tmux, GIT, etc., but also list of brew formulaes/casks and Atom packages I use (includes terminal color scheme and large portion of .zshrc and .vimrc forked from the great guy who introduced me into DevOps world :heart: - [ebenezar-mccoy/productivity](https://github.com/ebenezar-mccoy/productivity "ebenezar-mccoy/productivity"))
 - :soon: [terraform-aws](https://github.com/mpiotrak/terraform-aws "terraform-aws") - complete setup for spinning up full-fledged AWS environment
 
