@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning: Golang and whatever is trending on DevOps [roadmap]!
 - 💬 My motto: "Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it" ;)
-- 🥅 2023 Goals: read at least half of the bookmarks I saved in 2022 ... :)
+- 🥅 2025 Goals: read at least half of the bookmarks I saved for later in 2023 and 2024 ... :)
 - ⚡ Fun fact: I actually like writing documentation :)
 
 ### Check out my (awesome-wannabe) repositories!
