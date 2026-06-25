@@ -1,15 +1,18 @@
-### Hi there, I'm Marcin, DevSecOps specialist with the fin-tech background 👋
+### Hi, I'm Marcin 👋 — Senior DevSecOps / Cloud Security Engineer
 
-- 🌱 I’m currently learning: Python and whatever is trending on DevOps [roadmap]!
-- 💬 My motto: "Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it" ;)
-- 🥅 2025 Goals: read at least half of the bookmarks I saved for later in 2023 and 2024 ... :)
+12+ years in IT, 7+ securing **regulated fintech** on AWS & GCP (Aion Bank, Mox Bank, Chintai). I build and harden multi-account, zero-trust cloud estates with **GitOps CI/CD** and **shift-left security gates** — and I genuinely enjoy writing the docs that keep them maintainable.
+
+- 🔭 Currently going deep on **AI/LLM security** (OWASP LLM, EU AI Act) and **Kubernetes security** (CKS prep) — plus whatever's trending on the [DevOps roadmap][roadmap]
+- 🧰 Daily drivers: **AWS · Kubernetes · Terraform · HashiCorp Vault · GitHub Actions · Python**
+- 🏅 **CKA** (CNCF) · HashiCorp **Terraform** & **Vault** Associate · CCSP (training)
+- 💬 Motto: *"Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it"* ;)
 - ⚡ Fun fact: I actually like writing documentation :)
 
-### Check out my (awesome-wannabe) repositories!
+### Selected work
 
-- :file_folder: [DevSecOps-fu](https://github.com/mpiotrak/DevSecOps-fu "DevSecOps-fu") - `PRIVATE` collection of notes on every major technology/tool I've been working on since wanting to become DevSecOps Engineer!
-- :soon: [.dotfiles](https://github.com/mpiotrak/.dotfiles ".dotfiles") - configuration files for daily tools like zsh, tmux, GIT, etc., but also list of brew formulaes/casks and Atom packages I use (includes terminal color scheme and large portion of .zshrc and .vimrc forked from the great guy who introduced me into DevOps world :heart: - [ebenezar-mccoy/productivity](https://github.com/ebenezar-mccoy/productivity "ebenezar-mccoy/productivity"))
-- :soon: [terraform-aws](https://github.com/mpiotrak/terraform-aws "terraform-aws") - complete setup for spinning up full-fledged AWS environment
+- :file_folder: **[terraform-aws](https://github.com/mpiotrak/terraform-aws "terraform-aws")** — modular, GitOps-driven **multi-environment AWS landing zone** (VPC · EKS · IAM · RDS · ECR · Route 53 · ACM) with a reusable module library and GitHub Actions pipelines. A reference architecture for immutable, recreate-on-demand infrastructure.
+- :gear: **[.dotfiles](https://github.com/mpiotrak/.dotfiles ".dotfiles")** — configuration for my daily tools (zsh, tmux, vim, git) incl. terminal color scheme. zsh/vim foundations forked with thanks from [ebenezar-mccoy/productivity](https://github.com/ebenezar-mccoy/productivity "ebenezar-mccoy/productivity") :heart:
+- :lock: **DevSecOps-fu** *(private)* — personal study notes from my journey into DevSecOps.
 
 ### Connect with me:
 
@@ -20,7 +23,7 @@
 ### Languages and (main) Tools:
 
 [<img align="left" alt="bash" width="26px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">][bash]
-[<img align="left" alt="golang" width="26px" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg">][golang]
+[<img align="left" alt="python" width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">][python]
 
 [<img align="left" alt="Linux" width="26px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">][linux]
 [<img align="left" alt="AWS" width="26px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">][aws]
@@ -30,21 +33,20 @@
 [<img align="left" alt="Istio" width="26px" src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg">][istio]
 [<img align="left" alt="Docker" width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">][hashicorp]
 [<img align="left" alt="Terraform" width="26px" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">][hashicorp]
+[<img align="left" alt="Vault" width="26px" src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg">][hashicorp]
 [<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">][git]
 [<img align="left" alt="GitHub" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">][github]
 [<img align="left" alt="GitLab" width="26px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg">][gitlabci]
 [<img align="left" alt="Jenkins" width="26px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg">][ci/cd]
 [<img align="left" alt="CircleCI" width="26px" src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg">][circleci]
 [<img align="left" alt="Ansible" width="26px" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg">][ansible]
-[<img align="left" alt="Vault" width="26px" src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg">][hashicorp]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">][postgresql]
 [<img align="left" alt="Kafka" width="26px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg">][kafka]
 [<img align="left" alt="Atlassian" width="26px" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg">][atlassian]
 <br><br>
 <br>
 
-P.S. Please bear in mind that English is not my first language so if you spot a typo or some grammar monster go easy on me :)
-
+P.S. English isn't my first language — if you spot a typo or a grammar monster, go easy on me :)
 
 ---
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mpiotrak&show_icons=true&theme=github_dark)](https://github.com/mpiotrak/mpiotrak)
@@ -60,7 +62,7 @@ P.S. Please bear in mind that English is not my first language so if you spot a 
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [gitlabci]: https://gitlab.com/
-[golang]: https://golang.org/
+[python]: https://www.python.org/
 [hashicorp]: https://www.hashicorp.com/
 [istio]: https://istio.io/
 [kafka]: https://kafka.apache.org/
