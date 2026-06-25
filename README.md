@@ -20,40 +20,53 @@
 [<img align="left" alt="mpiotrak | stackoveflow" width="22px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg">][stackoverflow]
 <br>
 
-### Languages and (main) Tools:
+### Stack — ordered by what I reach for in cloud security
 
-[<img align="left" alt="bash" width="26px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">][bash]
-[<img align="left" alt="python" width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">][python]
-
-[<img align="left" alt="Linux" width="26px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">][linux]
+**Cloud & edge**
 [<img align="left" alt="AWS" width="26px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">][aws]
 [<img align="left" alt="GCP" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">][gcp]
-[<img align="left" alt="Kubernetes" width="26px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">][cncf]
-[<img align="left" alt="Helm" width="26px" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg">][cncf]
-[<img align="left" alt="Istio" width="26px" src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg">][istio]
-[<img align="left" alt="Docker" width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">][hashicorp]
-[<img align="left" alt="Terraform" width="26px" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">][hashicorp]
-[<img align="left" alt="Vault" width="26px" src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg">][hashicorp]
-[<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">][git]
-[<img align="left" alt="GitHub" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">][github]
-[<img align="left" alt="GitLab" width="26px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg">][gitlabci]
-[<img align="left" alt="Jenkins" width="26px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg">][ci/cd]
-[<img align="left" alt="CircleCI" width="26px" src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg">][circleci]
-[<img align="left" alt="Ansible" width="26px" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg">][ansible]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">][postgresql]
-[<img align="left" alt="Kafka" width="26px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg">][kafka]
-[<img align="left" alt="Atlassian" width="26px" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg">][atlassian]
 [<img align="left" alt="Azure" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">][azure]
 [<img align="left" alt="Cloudflare" width="26px" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg">][cloudflare]
-[<img align="left" alt="OpenStack" width="26px" src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg">][openstack]
+<br><br>
+
+**Kubernetes & containers**
+[<img align="left" alt="Kubernetes" width="26px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">][cncf]
+[<img align="left" alt="Helm" width="26px" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg">][cncf]
+[<img align="left" alt="Docker" width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">][docker]
+[<img align="left" alt="Istio" width="26px" src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg">][istio]
 [<img align="left" alt="Rancher" width="26px" src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg">][rancher]
-[<img align="left" alt="ArgoCD" width="26px" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg">][argo]
-[<img align="left" alt="Vagrant" width="26px" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg">][vagrant]
+<br><br>
+
+**IaC & provisioning**
+[<img align="left" alt="Terraform" width="26px" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">][terraform]
+[<img align="left" alt="Pulumi" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pulumi/pulumi-original.svg">][pulumi]
+[<img align="left" alt="Packer" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packer/packer-original.svg">][packer]
+[<img align="left" alt="Ansible" width="26px" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg">][ansible]
+<br><br>
+
+**CI/CD & GitOps**
+[<img align="left" alt="GitHub Actions" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">][github]
+[<img align="left" alt="GitLab CI" width="26px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg">][gitlab]
+[<img align="left" alt="Argo CD" width="26px" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg">][argo]
+[<img align="left" alt="Jenkins" width="26px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg">][jenkins]
+<br><br>
+
+**Security & secrets**
+[<img align="left" alt="HashiCorp Vault" width="26px" src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg">][vault]
 [<img align="left" alt="Okta" width="26px" src="https://www.vectorlogo.zone/logos/okta/okta-icon.svg">][okta]
+[<img align="left" alt="SonarQube" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg">][sonarqube]
+<br><br>
+
+**Observability**
 [<img align="left" alt="Datadog" width="26px" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg">][datadog]
 [<img align="left" alt="Prometheus" width="26px" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg">][prometheus]
 [<img align="left" alt="Grafana" width="26px" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">][grafana]
-[<img align="left" alt="RabbitMQ" width="26px" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg">][rabbitmq]
+<br><br>
+
+**Languages & OS**
+[<img align="left" alt="Python" width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">][python]
+[<img align="left" alt="Bash" width="26px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">][bash]
+[<img align="left" alt="Linux" width="26px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">][linux]
 <br><br>
 <br>
 
@@ -64,32 +77,29 @@ P.S. English isn't my first language — if you spot a typo or a grammar monster
 
 [ansible]: https://www.ansible.com/
 [argo]: https://argoproj.github.io/cd/
-[atlassian]: https://www.atlassian.com/
 [aws]: https://aws.amazon.com/
 [azure]: https://azure.microsoft.com/
-[cloudflare]: https://www.cloudflare.com/
-[datadog]: https://www.datadoghq.com/
-[grafana]: https://grafana.com/
-[okta]: https://www.okta.com/
-[openstack]: https://www.openstack.org/
-[prometheus]: https://prometheus.io/
-[rabbitmq]: https://www.rabbitmq.com/
-[rancher]: https://www.rancher.com/
-[vagrant]: https://www.vagrantup.com/
 [bash]: https://www.gnu.org/software/bash/
-[circleci]: https://circleci.com/
-[ci/cd]: https://cd.foundation/projects/
+[cloudflare]: https://www.cloudflare.com/
 [cncf]: https://www.cncf.io/projects/
+[datadog]: https://www.datadoghq.com/
+[docker]: https://www.docker.com/
 [gcp]: https://cloud.google.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/
-[gitlabci]: https://gitlab.com/
-[python]: https://www.python.org/
-[hashicorp]: https://www.hashicorp.com/
+[github]: https://github.com/features/actions
+[gitlab]: https://docs.gitlab.com/ee/ci/
+[grafana]: https://grafana.com/
 [istio]: https://istio.io/
-[kafka]: https://kafka.apache.org/
+[jenkins]: https://www.jenkins.io/
 [linkedin]: https://www.linkedin.com/in/marcin-piotrak-12b69144/
 [linux]: https://www.linuxfoundation.org/
-[postgresql]: https://www.postgresql.org/
+[okta]: https://www.okta.com/
+[packer]: https://www.packer.io/
+[prometheus]: https://prometheus.io/
+[pulumi]: https://www.pulumi.com/
+[python]: https://www.python.org/
+[rancher]: https://www.rancher.com/
 [roadmap]: https://roadmap.sh/devops
+[sonarqube]: https://www.sonarsource.com/products/sonarqube/
 [stackoverflow]: https://stackoverflow.com/users/10559905/mpiotrak
+[terraform]: https://www.terraform.io/
+[vault]: https://www.vaultproject.io/
