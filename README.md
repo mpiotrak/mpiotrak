@@ -43,6 +43,17 @@
 [<img align="left" alt="PostgreSQL" width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">][postgresql]
 [<img align="left" alt="Kafka" width="26px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg">][kafka]
 [<img align="left" alt="Atlassian" width="26px" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg">][atlassian]
+[<img align="left" alt="Azure" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">][azure]
+[<img align="left" alt="Cloudflare" width="26px" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg">][cloudflare]
+[<img align="left" alt="OpenStack" width="26px" src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg">][openstack]
+[<img align="left" alt="Rancher" width="26px" src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg">][rancher]
+[<img align="left" alt="ArgoCD" width="26px" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg">][argo]
+[<img align="left" alt="Vagrant" width="26px" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg">][vagrant]
+[<img align="left" alt="Okta" width="26px" src="https://www.vectorlogo.zone/logos/okta/okta-icon.svg">][okta]
+[<img align="left" alt="Datadog" width="26px" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg">][datadog]
+[<img align="left" alt="Prometheus" width="26px" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg">][prometheus]
+[<img align="left" alt="Grafana" width="26px" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">][grafana]
+[<img align="left" alt="RabbitMQ" width="26px" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg">][rabbitmq]
 <br><br>
 <br>
 
@@ -52,8 +63,19 @@ P.S. English isn't my first language — if you spot a typo or a grammar monster
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mpiotrak&show_icons=true&theme=github_dark)](https://github.com/mpiotrak/mpiotrak)
 
 [ansible]: https://www.ansible.com/
+[argo]: https://argoproj.github.io/cd/
 [atlassian]: https://www.atlassian.com/
 [aws]: https://aws.amazon.com/
+[azure]: https://azure.microsoft.com/
+[cloudflare]: https://www.cloudflare.com/
+[datadog]: https://www.datadoghq.com/
+[grafana]: https://grafana.com/
+[okta]: https://www.okta.com/
+[openstack]: https://www.openstack.org/
+[prometheus]: https://prometheus.io/
+[rabbitmq]: https://www.rabbitmq.com/
+[rancher]: https://www.rancher.com/
+[vagrant]: https://www.vagrantup.com/
 [bash]: https://www.gnu.org/software/bash/
 [circleci]: https://circleci.com/
 [ci/cd]: https://cd.foundation/projects/
