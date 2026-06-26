@@ -60,7 +60,7 @@ P.S. English isn't my first language — if you spot a typo or a grammar monster
 [istio]: https://istio.io/
 [jenkins]: https://www.jenkins.io/
 [kafka]: https://kafka.apache.org/
-[linkedin]: https://www.linkedin.com/in/marcin-piotrak-12b69144/
+[linkedin]: https://www.linkedin.com/in/%F0%9F%94%A7-marcin-piotrak-12b69144/
 [linux]: https://www.linuxfoundation.org/
 [okta]: https://www.okta.com/
 [openstack]: https://www.openstack.org/
