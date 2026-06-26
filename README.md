@@ -1,6 +1,6 @@
 ### Hi, I'm Marcin 👋 — Senior DevSecOps / Cloud Security Engineer
 
-12+ years in IT, 7+ securing **regulated fintech** — and now a **blockchain tokenisation/custody platform** — on AWS & GCP (Aion Bank, Mox Bank, Chintai). I build and harden multi-account, zero-trust cloud estates with **GitOps CI/CD** and **shift-left security gates** — and I genuinely enjoy writing the docs that keep them maintainable.
+12+ years in IT, 7+ securing **regulated fintech** — and now a **blockchain tokenisation/custody platform** — on AWS & GCP (Aion Bank, Mox Bank, Chintai). I build and harden multi-account, zero-trust cloud estates with **GitOps CI/CD** and **shift-left security** — and I care just as much about the human side: making security *everyone's* responsibility through awareness sessions, sharing knowledge across teams, and writing docs people actually use.
 
 - 🔭 Currently going deep on **AI/LLM security** (OWASP LLM, EU AI Act) and **Kubernetes security** (CKS prep) — plus whatever's trending on the [DevOps roadmap][roadmap]
 - 🧰 Daily drivers: **AWS · Kubernetes · Terraform · GitHub Actions · Bash · Python · Claude Code**
@@ -37,6 +37,7 @@
 | **Observability&nbsp;(SaaS)** | [<img alt="Datadog" title="Datadog" height="28" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg">][datadog]&nbsp;&nbsp;[<img alt="Dynatrace" title="Dynatrace" height="28" src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg">][dynatrace] |
 | **Metrics&nbsp;&&nbsp;logs** | [<img alt="ELK / Elastic" title="ELK / Elastic Stack" height="28" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg">][elastic]&nbsp;&nbsp;[<img alt="Grafana" title="Grafana" height="28" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">][grafana]&nbsp;&nbsp;[<img alt="Prometheus" title="Prometheus" height="28" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg">][prometheus]&nbsp;&nbsp;[<img alt="Loki" title="Grafana Loki" height="28" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/loki.svg">][loki] |
 | **Data** | [<img alt="PostgreSQL" title="PostgreSQL" height="28" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">][postgresql]&nbsp;&nbsp;[<img alt="Kafka" title="Apache Kafka" height="28" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg">][kafka]&nbsp;&nbsp;[<img alt="PostHog" title="PostHog" height="28" src="https://cdn.simpleicons.org/posthog">][posthog] |
+| **Fintech&nbsp;&&nbsp;blockchain** | [<img alt="EOS.IO" title="EOS.IO" height="28" src="https://cdn.jsdelivr.net/gh/spothq/cryptocurrency-icons/svg/color/eos.svg">][eos]&nbsp;&nbsp;Thought&nbsp;Machine&nbsp;Vault <sub>(core&nbsp;banking)</sub> |
 | **Languages&nbsp;&&nbsp;OS** | [<img alt="Python" title="Python" height="28" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">][python]&nbsp;&nbsp;[<img alt="Bash" title="Bash" height="28" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">][bash]&nbsp;&nbsp;[<img alt="Linux" title="Linux" height="28" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">][linux] |
 
 <sub>Hover any icon for its name. Trivy uses the Aqua Security mark and Prisma Cloud the Palo Alto Networks mark (their makers) — neither has a standalone brand icon.</sub>
@@ -58,6 +59,7 @@ P.S. English isn't my first language — if you spot a typo or a grammar monster
 [docker]: https://www.docker.com/
 [dynatrace]: https://www.dynatrace.com/
 [elastic]: https://www.elastic.co/elastic-stack
+[eos]: https://eosnetwork.com/
 [falco]: https://falco.org/
 [gcp]: https://cloud.google.com/
 [github]: https://github.com/features/actions
