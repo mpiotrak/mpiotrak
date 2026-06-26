@@ -1,10 +1,11 @@
 ### Hi, I'm Marcin 👋 — Senior DevSecOps / Cloud Security Engineer
 
-12+ years in IT, 7+ securing **regulated fintech** on AWS & GCP (Aion Bank, Mox Bank, Chintai). I build and harden multi-account, zero-trust cloud estates with **GitOps CI/CD** and **shift-left security gates** — and I genuinely enjoy writing the docs that keep them maintainable.
+12+ years in IT, 7+ securing **regulated fintech** — and now a **blockchain tokenisation/custody platform** — on AWS & GCP (Aion Bank, Mox Bank, Chintai). I build and harden multi-account, zero-trust cloud estates with **GitOps CI/CD** and **shift-left security gates** — and I genuinely enjoy writing the docs that keep them maintainable.
 
 - 🔭 Currently going deep on **AI/LLM security** (OWASP LLM, EU AI Act) and **Kubernetes security** (CKS prep) — plus whatever's trending on the [DevOps roadmap][roadmap]
 - 🧰 Daily drivers: **AWS · Kubernetes · Terraform · GitHub Actions · Bash · Python · Claude Code**
 - 🏅 **CKA** (CNCF) · HashiCorp **Terraform** & **Vault** Associate · CCSP (training)
+- 🏆 *Best Core Banking Implementation 2021* (IBS Intelligence) — Mox Bank core-banking programme
 - 💬 Motto: *"Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it"* ;)
 - ⚡ Fun fact: I actually like writing documentation :)
 
@@ -34,7 +35,7 @@
 | **AppSec&nbsp;&&nbsp;supply&nbsp;chain** | [<img alt="SonarQube" title="SonarQube" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg">][sonarqube]&nbsp;&nbsp;[<img alt="Snyk" title="Snyk" height="28" src="https://cdn.simpleicons.org/snyk">][snyk]&nbsp;&nbsp;[<img alt="Trivy" title="Trivy" height="28" src="https://www.vectorlogo.zone/logos/aquasec/aquasec-icon.svg">][trivy] |
 | **Runtime&nbsp;&&nbsp;CNAPP** | [<img alt="Falco" title="Falco" height="28" src="https://www.vectorlogo.zone/logos/falco/falco-icon.svg">][falco]&nbsp;&nbsp;[<img alt="CrowdStrike" title="CrowdStrike" height="28" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/crowdstrike.svg">][crowdstrike]&nbsp;&nbsp;[<img alt="Prisma Cloud" title="Prisma Cloud" height="28" src="https://cdn.simpleicons.org/paloaltonetworks">][prismacloud] |
 | **Observability&nbsp;(SaaS)** | [<img alt="Datadog" title="Datadog" height="28" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg">][datadog]&nbsp;&nbsp;[<img alt="Dynatrace" title="Dynatrace" height="28" src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg">][dynatrace] |
-| **Metrics&nbsp;&&nbsp;logs** | [<img alt="ELK / Elastic" title="ELK / Elastic Stack" height="28" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg">][elastic]&nbsp;&nbsp;[<img alt="Grafana" title="Grafana" height="28" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">][grafana]&nbsp;&nbsp;[<img alt="Prometheus" title="Prometheus" height="28" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg">][prometheus]&nbsp;&nbsp;[<img alt="Loki" title="Grafana Loki" height="28" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/loki.svg">][loki]&nbsp;&nbsp;[<img alt="Alertmanager" title="Alertmanager" height="28" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/alertmanager.svg">][alertmanager] |
+| **Metrics&nbsp;&&nbsp;logs** | [<img alt="ELK / Elastic" title="ELK / Elastic Stack" height="28" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg">][elastic]&nbsp;&nbsp;[<img alt="Grafana" title="Grafana" height="28" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">][grafana]&nbsp;&nbsp;[<img alt="Prometheus" title="Prometheus" height="28" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg">][prometheus]&nbsp;&nbsp;[<img alt="Loki" title="Grafana Loki" height="28" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/loki.svg">][loki] |
 | **Data** | [<img alt="PostgreSQL" title="PostgreSQL" height="28" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">][postgresql]&nbsp;&nbsp;[<img alt="Kafka" title="Apache Kafka" height="28" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg">][kafka]&nbsp;&nbsp;[<img alt="PostHog" title="PostHog" height="28" src="https://cdn.simpleicons.org/posthog">][posthog] |
 | **Languages&nbsp;&&nbsp;OS** | [<img alt="Python" title="Python" height="28" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">][python]&nbsp;&nbsp;[<img alt="Bash" title="Bash" height="28" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">][bash]&nbsp;&nbsp;[<img alt="Linux" title="Linux" height="28" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">][linux] |
 
@@ -45,7 +46,6 @@ P.S. English isn't my first language — if you spot a typo or a grammar monster
 ---
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mpiotrak&show_icons=true&theme=github_dark)](https://github.com/mpiotrak/mpiotrak)
 
-[alertmanager]: https://prometheus.io/docs/alerting/latest/alertmanager/
 [ansible]: https://www.ansible.com/
 [argo]: https://argoproj.github.io/cd/
 [aws]: https://aws.amazon.com/
