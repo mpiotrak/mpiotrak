@@ -10,7 +10,7 @@
 
 ### Selected work
 
-- :file_folder: **[terraform-aws](https://github.com/mpiotrak/terraform-aws "terraform-aws")** — modular, GitOps-driven **multi-environment AWS landing zone** (VPC · EKS · IAM · RDS · ECR · Route 53 · ACM) with a reusable module library and GitHub Actions pipelines. A reference architecture for immutable, recreate-on-demand infrastructure.
+- <img alt="Terraform" height="16" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"> **[terraform-aws](https://github.com/mpiotrak/terraform-aws "terraform-aws")** — modular, GitOps-driven **multi-environment AWS landing zone** (VPC · EKS · IAM · RDS · ECR · Route 53 · ACM) with a reusable module library and GitHub Actions pipelines. A reference architecture for immutable, recreate-on-demand infrastructure.
 - :books: **[devsecops-notes](https://github.com/mpiotrak/devsecops-notes "devsecops-notes")** — **public** cheatsheets & shell notes written in my own words: RegEx · YAML · Markdown · \*nix commands.
 - :gear: **[.dotfiles](https://github.com/mpiotrak/.dotfiles ".dotfiles")** — configuration for my daily tools (zsh, tmux, vim, git) incl. terminal color scheme. zsh/vim foundations forked with thanks from [ebenezar-mccoy](https://github.com/ebenezar-mccoy) — the mentor who got me into DevOps (his original repo is no longer public) :heart:
 - :lock: **DevSecOps-fu** *(private)* — my deeper personal study vault (tool deep-dives & course notes I keep for myself). The polished, original pieces from it now live in **[devsecops-notes](https://github.com/mpiotrak/devsecops-notes)** above.
