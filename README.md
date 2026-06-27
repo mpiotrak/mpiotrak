@@ -1,4 +1,4 @@
-### Hi, I'm Marcin 👋 — Senior DevSecOps / Cloud Security Engineer
+### Hi, I'm Marcin 👋 — Senior DevSecOps Engineer / Cloud Security Architect
 
 12+ years in IT, 7+ securing **regulated fintech** — and now a **blockchain tokenisation/custody platform** — on AWS & GCP (Aion Bank, Mox Bank, Chintai). I build and harden multi-account, zero-trust cloud estates with **GitOps CI/CD** and **shift-left security** — and I care just as much about the human side: making security *everyone's* responsibility through awareness sessions, sharing knowledge across teams, and writing docs people actually use.
 
